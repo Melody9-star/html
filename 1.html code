@@ -1,0 +1,30 @@
+<!doctype html>
+<html>
+<head>
+  <title>WEB1 - My Friends</title>
+  <meta charset="utf-8">
+  <Link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <h1><a href="index.html">About Myself</a></h1>
+  <div id="grid">
+  <ol>
+    <li><a href="1.html">My Friends</a></li>
+    <li><a href="2.html">My Family</a></li>
+    <li><a href="3.html">My Pet</a></li>
+  </ol>
+  <div id="article">
+  <h2>My Friends</h2>
+  <p>
+  I have met many good friends in the
+  <a href="https://www.skku.edu/skku/index.do">university</a>.
+  They are all so <strong><u>smart</u></strong>, kind, and fancy.
+  They always make me nervous in a positive way, and I want to be
+  a person whom my friends will be proud of.</p>
+  <img src="friends.jpg" width="100%">
+  <p style="margin-top:45px;">Therefore,
+  I will try my best to build up my skills to be valued as a
+  valuable & precious human resource.
+ </p>
+</div>
+</body>

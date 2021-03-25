@@ -1,0 +1,25 @@
+<!doctype html>
+<html>
+<head>
+  <title>WEB1 - My Family</title>
+  <meta charset="utf-8">
+  <Link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <h1><a href="index.html">About Myself</a></h1>
+  <div id="grid">
+    <ol>
+      <li><a href="1.html">My Friends</a></li>
+      <li><a href="2.html">My Family</a></li>
+      <li><a href="3.html">My Pet</a></li>
+  </ol>
+  <div id="article">
+     <h2>My Family</h2>
+     <p>My family is consisted of I myself, mom, and dad.
+Since I am the only child of my family, my parent's attention is highly
+concentrated on me.
+      </p>
+    </div>
+</div>
+</body>
+</html>

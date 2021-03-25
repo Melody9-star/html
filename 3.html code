@@ -1,0 +1,22 @@
+<!doctype html>
+<html>
+<head>
+  <title>WEB1 - My Pet</title>
+  <meta charset="utf-8">
+  <Link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <h1><a href="index.html">About Myself</a></h1>
+  <div id="grid">
+  <ol>
+    <li><a href="1.html">My Friends</a></li>
+    <li><a href="2.html">My Family</a></li>
+    <li><a href="3.html">My Pet</a></li>
+  </ol>
+  <div id="article">
+  <h2>My Pet</h2>
+  <p>I used to raise various types of animals as a pet.
+  Among them, the one that lived the longest was a Clark's Anemonefish, a type
+  of fish which is well known as a "Nemo" from the film "Finding Nemo".</p>
+ </div>
+</body>
